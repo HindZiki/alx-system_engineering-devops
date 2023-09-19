@@ -1,1 +1,1 @@
-Project of alx-pre_coursProject of alx-pre_coursee
+project of alx-pre_courseproject of alx-pre_course
