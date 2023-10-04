@@ -1,1 +1,1 @@
-alias project
+alias project # Shell, init files, variables and expansions
